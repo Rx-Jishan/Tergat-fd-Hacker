@@ -5,4 +5,4 @@ git clone https://github.com/Rx-Jishan/Tergat-fd-Hacker
 
 cd Tergat-fd-Hacker
 
-python 4.py
+python 4-1.py
